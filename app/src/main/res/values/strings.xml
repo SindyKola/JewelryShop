@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-Commerce Jewelry</string>
+    <string-array name="sort">
+        <item>SORT</item>
+        <item>Price Ascending</item>
+        <item>Price Descending</item>
+    </string-array>
+</resources>
